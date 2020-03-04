@@ -1,0 +1,82 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/css/" . "scss_files/")
+ ("/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/" . "html/")
+ ("/home/heios/Desktop/project/" . "edx/")
+ ("/home/heios/Desktop/project/edx/project0/html/css/" . "scss_files/")
+ ("/home/heios/Desktop/project/edx/project0/" . "html/")
+ ("/home/heios/Desktop/project/edx/" . "project0/")
+ ("/home/heios/Desktop/" . "project/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/heios/Desktop/project/edx/flask-lesson/templates/"
+ "/home/heios/Desktop/project/edx/flask-lesson/"
+ "/home/heios/"
+ "/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/css/scss_files/"
+ "/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/css/"
+ "/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/"
+ "/home/heios/Desktop/project/edx/project0/html/"
+ "/home/heios/Desktop/project/edx/project0/html/css/scss_files/"
+ "/home/heios/Desktop/project/edx/project0/html/css/"
+ "/home/heios/Desktop/project/edx/project0/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.html"
+ "application.py"
+ ".emacs"
+ "test.css"
+ "inheritance.scss"
+ "nesting.css"
+ "nesting.scss"
+ "variable.scss"
+ "variable.css"
+ "custom-css-bootstrap.css"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/heios/Desktop/project/edx/flask-lesson/templates/" (24032 57983 412157 36000) "index.html" "index.html~" "./" "../" "#index.html#")
+
+ ("/home/heios/Desktop/project/edx/flask-lesson/" (24032 58947 290894 477000) "./" "../" "templates/" "__pycache__/" "application.py~" "application.py")
+
+ ("/home/heios/" (24032 52548 813041 44000) "octave/" "owl.jpg" "Videos/" "libjpeg62-turbo_1.5.1-2_amd64.deb" ".bash_history" ".dotnet/" ".bash_profile" ".var/" "rose.jpg" "packages-microsoft-prod.deb.1" ".emacs" "dotnet/" ".gitconfig" "Documents/" "DigitalFinancePresentation.odt" ".ssh/" ".gphoto/" ".atom/" "libjpeg62-turbo_1.5.1-2_amd64.deb.1" ".kde/" ".ethereum/" "web-mode-master/" "Public/" ".root_hist" "Pictures/" ".emacs.d/" "obs-video/" "./" "Music/" "packages-microsoft-prod.deb" ".gksu.lock" ".gnome/" ".sudo_as_admin_successful" ".config/" ".node_repl_history" ".dbus/" ".xsel.log" ".viminfo" "../" "Desktop/" ".gnupg/" ".ethash/" ".vscode/" ".octave_packages" "Four_Pillar" ".furiusisomount/" "TP1_WONG_PAGUET.odt" ".bash_profile~" ".ICEauthority" ".nuget/" ".thumbnails/" ".mozilla/" ".dmrc" ".babel.json" ".FBReader/" ".xsession-errors.old" ".bash_logout" ".wget-hsts" ".profile" ".xsession-errors" ".python_history" ".bashrc" ".octave_hist" ".local/" ".gnome2/" ".text.swp" ".pylint.d/" ".emacs~" ".nano/" ".thunderbird/" ".cinnamon/" ".cache/" ".idlerc/" "git-rectify/" ".omnisharp/" "Templates/" ".shutter/" ".recently-used" ".Xauthority" ".pki/" ".bashrc~" ".rpmdb/" ".templateengine/" ".wine/" ".npm/" "tp_3_crypto.odt" ".gconf/" ".virtualenvs/" ".fontconfig/" ".linuxmint/" "Downloads/")
+
+ ("/home/heios/.emacs.d/" (24032 52975 484015 337000) "auto-save-list/" "url/" "./" "elpa/" "../" "lisp/" "ido.last~" "ido.last")
+
+ ("/home/heios/.emacs.d/elpa/" (24032 48407 752847 616000) "web-mode-20191104.1859/" "zenburn-theme-20191016.655/" "impatient-mode-20181002.1231/" "./" "htmlize-20191111.2130/" "solarized-theme-20191127.1514/" "../" "simple-httpd-20191103.1446/" "gnupg/" "monokai-theme-20190801.1701/" "spacemacs-theme-20191107.1747/" "dash-20191109.1327/" "archives/")
+
+ ("/home/heios/.emacs.d/elpa/web-mode-20191104.1859/" (24032 47968 110135 31000) "web-mode.elc" "./" "../" "web-mode.el" "web-mode-autoloads.el~" "web-mode-pkg.el" "web-mode-pkg.elc" "web-mode-autoloads.el")
+
+ ("/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/css/scss_files/" (24028 21423 920450 607000) "variable.css" "nesting.css.map" "./" "../" "inheritance.scss" "nesting.css" "nesting.scss" "inheritance.css.map" "variable.css.map" "variable.scss" "inheritance.css")
+
+ ("/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/" (24028 61544 38772 421000) "index.html" "boot-page.html" "./" "../" "css/" "variable.html" "nesting.html" "inheritance.html")
+
+ ("/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/html/css/" (24028 21423 920450 607000) "./" "styles.css" "scss_files/" "../" "custom-css-bootstrap.css")
+
+ ("/home/heios/Desktop/project/edx/cs50-project0/thomaswong25520/" (24028 59384 306673 532000) "./" "../" "README.md" ".gitignore" "html/" ".git/")
+
+ ("/home/heios/Desktop/project/edx/project0/html/css/" (24028 1805 434907 918000) "./" "custom-css-bootstrap.css~" "styles.css" "scss_files/" "../" "custom-css-bootstrap.css" "styles.css~")
+
+ ("/home/heios/Desktop/project/edx/project0/html/" (24028 15734 16276 965000) "index.html" "boot-page.html" "index.html~" "./" "nesting.html~" "../" ".sass-cache/" "css/" "variable.html~" "boot-page.html~" "variable.html" "inheritance.html~" "nesting.html" "inheritance.html")
+
+ ("/home/heios/Desktop/project/edx/project0/html/css/scss_files/" (24028 947 678881 741000) "variable.css" "nesting.css.map" "./" "../" "inheritance.scss" "variable.scss~" ".sass-cache/" "nesting.css" "nesting.scss" "inheritance.css.map" "variable.css.map" "variable.scss" "inheritance.css")
+
+ ("/home/heios/Desktop/project/edx/project0/" (24027 50808 870403 384000) ".#jquery.min.js" "./" "../" "README.md" "html/")
+
+ ("/home/heios/Desktop/project/edx/" (24025 21393 165244 554000) "./" "../" "project0.zip" "project0/")
+
+ ("/home/heios/Desktop/project/" (24025 43950 536333 252000) "password_manager/" "tdd/" "./" "schedule.txt" "../" "goals.txt" "automate_with_python/" "udemy-python.py~" "Learn to Program with Minecraft.pdf" "spotify/" "edx/" "python_challenges/" "udemy-python.py" "github-repo/")
+
+ ("/home/heios/Desktop/" (23986 7386 10081 109000) "tpyv/" "opti_proj_tvy.tar.gz" "./" "DataStory" "../" "Projet_Trading_TPYV.odt" "Thomas/" "octave-workspace" "random.py" "StatisticsMachineLearningPythonDraft.pdf" "project/" "technoweb.txt" "entreprise.txt" "opti_proj_tvy/" "NOM_Project_WONG_LUONG_ZAGHLOUL.uot")
+
+ ("/home/" (23318 60083 422531 74000) "./" "../" "heios/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
